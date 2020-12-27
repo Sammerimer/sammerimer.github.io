@@ -1,2 +1,0 @@
-# sammerimer.github.io
-website
